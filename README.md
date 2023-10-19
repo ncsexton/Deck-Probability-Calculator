@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Just a small webpage that allows you to enter different card types and calculate the probability of drawing them from a deck, accounting for cards removed for each draw.
+
 ## Getting Started
 
 First, run the development server:
